@@ -11,10 +11,10 @@
 // @grant        none
 // ==/UserScript==
 
+//sync test
 (function() {
 	'use strict';
 
-	// Your code here...
 	var bmBtn = $('.bookmark-container a');
 	var favBtn = $('#favorite-button');
 	var favSubmit = $('input[name="left_column"]');
