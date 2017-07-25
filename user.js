@@ -11,7 +11,6 @@
 // @grant        none
 // ==/UserScript==
 
-//sync test
 (function() {
 	'use strict';
 
